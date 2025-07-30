@@ -24,9 +24,9 @@
 
 =============================================================================================================================================================================
 
-# 🧠 Tree Data Structures - Google L5 Prep Cheatsheet
+# 🧠 Tree Data Structures Prep Cheatsheet
 
-This guide includes **20 must-practice Tree questions** commonly asked in L5 interviews at top tech companies like Google. Each entry includes the **concept**, **keywords**, and **solution code** with explanations in Python.
+This guide includes **20 must-practice Tree questions** commonly asked in  interviews at top tech companies. Each entry includes the **concept**, **keywords**, and **solution code** with explanations in Python.
 
 ---
 
