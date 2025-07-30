@@ -1,4 +1,4 @@
-# 15-Day DSA Mastery Plan 🚀
+# 15-Days DSA Mastery Plan 🚀
 
 | Day | Topic           | Must-Solve Problems                | Explanation |
 | --- | --------------- | ---------------------------------- | ----------- |
